@@ -1,0 +1,36 @@
+{
+    "employee":[
+       {
+          "fullName":"Nguyen Chi Tan",
+          "account":"tannc2",
+          "dateOfBirth":"1999-05-18",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Binh Dinh"
+       },
+       {
+          "fullName":"Tran Duc Quy",
+          "account":"quytd",
+          "dateOfBirth":"1998-05-12",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Da Nang"
+       },
+       {
+          "fullName":"Lam Hai Son",
+          "account":"sonlh16",
+          "dateOfBirth":"1998-03-01",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Binh Dinh"
+       },
+       {
+          "fullName":"Nguyen Chi Sang",
+          "account":"sangnc1",
+          "dateOfBirth":"1995-04-02",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Da Nang"
+       }
+    ]
+ }

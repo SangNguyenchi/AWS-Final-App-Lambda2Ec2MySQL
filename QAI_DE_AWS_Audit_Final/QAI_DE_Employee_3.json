@@ -1,0 +1,44 @@
+{
+    "employee":[
+       {
+          "fullName":"Ly Nhat Tan",
+          "account":"tanln5",
+          "dateOfBirth":"1993-08-05",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Hue"
+       },
+       {
+          "fullName":"Tran Van Tho",
+          "account":"thotv",
+          "dateOfBirth":"1998-02-02",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Ha Tinh"
+       },
+       {
+          "fullName":"Nguyen Duc Tien",
+          "account":"tiennd28",
+          "dateOfBirth":"1987-08-28",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Da Nang"
+       },
+       {
+          "fullName":"Trinh Vinh Phu",
+          "account":"phutv12",
+          "dateOfBirth":"1989-03-21",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Binh Dinh"
+       },
+       {
+          "fullName":"Vu Thi Thuy Trang",
+          "account":"trangvtt8",
+          "dateOfBirth":"1993-03-22",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Da Nang"
+       }
+    ]
+ }

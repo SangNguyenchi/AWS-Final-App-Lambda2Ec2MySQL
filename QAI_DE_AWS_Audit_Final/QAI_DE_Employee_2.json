@@ -1,0 +1,36 @@
+{
+    "employee":[
+       {
+          "fullName":"Tran Nguyen Thien Ly",
+          "account":"lytnt",
+          "dateOfBirth":"1997-04-20",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Hue"
+       },
+       {
+          "fullName":"Nguyen Viet Hoang",
+          "account":"hoangnv38",
+          "dateOfBirth":"1998-07-29",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Ha Noi"
+       },
+       {
+          "fullName":"Le Tran Tu Uyen",
+          "account":"uyenltt3",
+          "dateOfBirth":"1991-10-09",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Tp.HCM"
+       },
+       {
+          "fullName":"Dao Duy Hoi",
+          "account":"hoidd1",
+          "dateOfBirth":"1992-10-31",
+          "department":"Fsoft.QAI",
+          "role":"Data Engineer",
+          "Address":"Binh Dinh"
+       }
+    ]
+ }
